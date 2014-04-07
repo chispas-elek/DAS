@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="app_name">PruebaBD</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_la_bd">LaBusquedaDelTesoro</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="title_activity_lista_tesoro">ListaTesoro</string>
+    <string name="anadir">Añadir</string>
+    <string name="title_activity_anadir_tesoro">AnadirTesoro</string>
+
+</resources>
